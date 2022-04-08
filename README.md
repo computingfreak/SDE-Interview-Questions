@@ -6,15 +6,38 @@
 
 | | Companies|
 | ------ | ------ |
-| **E** | [Expedia](Expedia/README.md) |
-| **G** | [Grab](Grab/README.md) | 
-| **M** | [MobiKwik](MobiKwik/README.md) | 
-| **N** | [NEC Technologies](NEC%20Technologies/README.md) | 
-| **P** | [PayPal](PayPal/README.md) | 
-| **S** | [Samsung Research Institute](Samsung/README.md) | 
-| **U** | [Uber](Uber/README.md) | 
-| **Y** | [Yatra.com](Yatra.com/README.md) | 
-| **Z** | [Zomato](Zomato/README.md) | 
+| **1** | [Adobe](Adobe/README.md) | 
+| **2** | [AirAsia](AirAsia/README.md) |
+| **3** | [Amazon](Amazon/README.md) |
+| **4** | [AmericanExpress](AmericanExpress/README.md) |
+| **5** | [Atlassian](Atlassian/README.md) |
+| **6** | [BookMyShow](BookMyShow/README.md) | 
+| **7** | [Expedia](Expedia/README.md) |
+| **8** | [Facebook](Facebook/README.md) |
+| **9** | [Flipkart](Flipkart/README.md) |
+| **10** | [Google](Google/README.md) |
+| **11** | [Grab](Grab/README.md) | 
+| **12** | [Intel](Intel/README.md) |
+| **13** | [Intuit](Intuit/README.md) |
+| **14** | [LinkedIn](LinkedIn/README.md) |
+| **15** | [MakeMyTrip](MakeMyTrip/README.md) |
+| **16** | [Microsoft](Microsoft/README.md) | 
+| **17** | [MobiKwik](MobiKwik/README.md) | 
+| **18** | [NEC Technologies](NEC%20Technologies/README.md) | 
+| **19** | [Netflix](Netflix/README.md) | 
+| **20** | [Ola](Ola%20Cabs/README.md) |
+| **21** | [PayPal](PayPal/README.md) | 
+| **22** | [Postmates](Postmates/README.md) | 
+| **23** | [Samsung](Samsung/README.md) | 
+| **24** | [SAP](SAP%20Labs/README.md) | 
+| **25** | [Snowflake](Snowflake/README.md) | 
+| **26** | [Twitter](Twitter/README.md) | 
+| **27** | [Uber](Uber/README.md) | 
+| **28** | [Verizon](Verizon/README.md) | 
+| **29** | [Walmart](Walmart%20Labs/README.md) | 
+| **30** | [Yatra.com](Yatra.com/README.md) | 
+| **31** | [Yelp](Yelp/README.md) | 
+| **32** | [Zomato](Zomato/README.md) | 
 
 ## Announcements👐
 <i><b>📣This repo is not participating in hacktoberfest this year. </b></i>     
